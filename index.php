@@ -1,3 +1,3 @@
 <?php
-echo "texting";
+echo "text example";
 ?>
