@@ -1,4 +1,4 @@
 <?php
-echo  $_SERVER['REDIRECT_URL'];
+echo $_SERVER['REQUEST_URI'];
 // echo "hello":
 ?>
