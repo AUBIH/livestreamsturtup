@@ -1,3 +1,4 @@
 <?php
-echo "text exampljje";
+echo "$_SERVER(REQUEST_URL)";
+
 ?>
